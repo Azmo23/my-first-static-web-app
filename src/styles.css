@@ -59,7 +59,7 @@ main section img{
 main section img:hover{
   width: 22vw;
   height: 22vw;
-  box-shadow: 4px 4px 4px blue;
+  box-shadow: 4px 4px 4px #020218;
 }
 .textos{
   background-color: rgba(240, 248, 255, 0.233);
